@@ -1,0 +1,8 @@
+{
+  "name": "@redice44/node-stdin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Matt Thomson <mthomson.lee@gmail.com>",
+  "license": "ISC",
+  "description": "Reads stdin as a string"
+}
